@@ -1,0 +1,36 @@
+.divs {
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 10px;
+  background-color: rgb(200, 249, 255);
+  border-color: #96dcee;
+  width: 1000px;
+  height: 600px;
+}
+
+.image {
+  width: 500px;
+  height: 500px;
+  float: left;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 10px;
+  background-color: white;
+  border-color: #81979c;
+}
+
+#copy_right_footer {
+  background-color: #97db4f;
+  height: 30px;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+#big-heading {
+  font-size: 60px;
+}
